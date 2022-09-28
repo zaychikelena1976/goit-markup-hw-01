@@ -6,16 +6,4 @@
     "configurations": [
         
 
-
-    ]
-}
-function isAdult(age) {
-    
-    const passed = "совершеннолетний"
-    if (isAdult >= passed) {console.log(true)};
-      
-    };
   
-    
-    return passed;
-  }
